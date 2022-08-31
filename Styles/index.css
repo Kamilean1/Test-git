@@ -1,0 +1,42 @@
+h1 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: #6e6e6e;
+
+}
+
+h2 {
+    color: #323232;
+    font-size: 25px;
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+p {
+    color: #000000;
+    
+}
+
+body {
+    background-image: url(../Images/flamingo.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: right;
+    background-attachment: fixed;
+    background-color: #ff91a4;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 10px;
+}
+
+ul {
+    font-style: oblique;
+}
