@@ -16,11 +16,6 @@ h2 {
 
 }
 
-p {
-    color: #000000;
-    
-}
-
 body {
     background-image: url(../Images/flamingo.jpg);
     background-repeat: no-repeat;
@@ -29,6 +24,12 @@ body {
     background-attachment: fixed;
     background-color: #ff91a4;
 }
+
+p {
+    color: #000000;
+    
+}
+
 
 img {
     border-width: 5px;
